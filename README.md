@@ -26,7 +26,8 @@ We'll use TDD to work through this demo.
 
 ### Run our initial style tests
  1. Open a Chef Developer Kit Command Prompt (Windows) or Terminal (Mac,Linux)
- 2. change directories to the location that this lab is checked out. (For lab this is )
+ 2. change directories to the location that this lab is checked out. ```(For lab environment this is C:\Users\chef\Desktop\chef-workshop-lab\)```
+ 3. run the command ```foodcritic .```
 
 ## See Also
 
