@@ -28,6 +28,15 @@ We'll use TDD to work through this demo.
  1. Open a Chef Developer Kit Command Prompt (Windows) or Terminal (Mac,Linux)
  2. change directories to the location that this lab is checked out. ```(For lab environment this is C:\Users\chef\Desktop\chef-workshop-lab\)```
  3. run the command ```foodcritic .```
+ 4. The output should be similar to below
+ ```
+ PS C:\Users\chef\Desktop\chef-workshop-lab1> foodcritic .
+Checking 2 files
+x.
+FC008: Generated cookbook metadata needs updating: ./metadata.rb:2
+FC008: Generated cookbook metadata needs updating: ./metadata.rb:3
+FC067: Ensure at least one platform supported in metadata: ./metadata.rb:1
+```
 
 ## See Also
 
