@@ -1,2 +1,5 @@
 Layout/TrailingBlankLines:
   Enabled: false
+
+Layout/EndOfLine:
+  Enabled: false
