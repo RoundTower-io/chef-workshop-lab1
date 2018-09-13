@@ -4,9 +4,8 @@
 
 ## Summary
 
-This demo will show users how to run style tests against Chef cookbooks.
-For simplicity's sake, we will test a cookbook with a recipe and a few default
-attributes. Consult the documentation in the [see also](#see-also) section.
+This demo will show users how to run style and Lint tests against Chef cookbooks.
+Consult the documentation in the [see also](#see-also) section.
 
 
 ## Prerequisites
@@ -41,3 +40,4 @@ FC067: Ensure at least one platform supported in metadata: ./metadata.rb:1
 ## See Also
 
 * [Foodcritic](https://foodcritic.io)
+* [Rubocop](http://www.rubocop.org/en/latest/)
