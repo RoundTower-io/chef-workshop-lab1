@@ -1,7 +1,6 @@
 # Chef Workshop Lab1
 
 
-
 ## Summary
 
 This demo will show users how to run style and Lint tests against Chef cookbooks.
@@ -37,6 +36,7 @@ FC008: Generated cookbook metadata needs updating: ./metadata.rb:3
 FC067: Ensure at least one platform supported in metadata: ./metadata.rb:1
 ```
 
+ 5. Make changes to metadata.rb to resolve issues.
 ## See Also
 
 * [Foodcritic](https://foodcritic.io)
