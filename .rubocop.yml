@@ -3,3 +3,9 @@ Layout/TrailingBlankLines:
 
 Layout/EndOfLine:
   Enabled: false
+
+Metrics/LineLength:
+  Enabled: false
+
+Style/SymbolArray:
+  Enabled: false
