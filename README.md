@@ -13,6 +13,7 @@ You will be provided a windows workstation to RDP into for this lab.
 If you would like to do this lab outside of the Workshop you will need a
 workstation with the ChefDK installed. And a clone of this Git Repo
 * [ChefDK](https://downloads.chef.io/chefdk)
+* [Lab1](https://github.com/RoundTower-io/chef-workshop-lab1)
 
 You will also need your Text editor of choice your lab environment will have
 [Atom](https://atom.io/) and [Sublime](https://www.sublimetext.com/) installed.
